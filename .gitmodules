@@ -1,0 +1,12 @@
+[submodule "Technical-projects/youssouf-store"]
+	path = Technical-projects/youssouf-store
+	url = https://github.com/Yogue1997/youssouf-store.git
+[submodule "Technical-projects/mutiverse-backend-project"]
+	path = Technical-projects/mutiverse-backend-project
+	url = https://github.com/Yogue1997/mutiverse-backend-project.git
+[submodule "Technical-projects/housing"]
+	path = Technical-projects/housing
+	url = https://github.com/Yogue1997/housing.git
+[submodule "Technical-projects/mv-second-project"]
+	path = Technical-projects/mv-second-project
+	url = https://github.com/Yogue1997/mv-second-project.git
