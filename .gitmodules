@@ -10,3 +10,6 @@
 [submodule "Technical-projects/mv-second-project"]
 	path = Technical-projects/mv-second-project
 	url = https://github.com/Yogue1997/mv-second-project.git
+[submodule "Technical-projects/nodejs"]
+	path = Technical-projects/nodejs
+	url = https://github.com/Yogue1997/nodejs
