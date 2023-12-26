@@ -13,3 +13,9 @@
 [submodule "Technical-projects/nodejs"]
 	path = Technical-projects/nodejs
 	url = https://github.com/Yogue1997/nodejs
+[submodule "Technical-projects/blogBackEndNodeApi"]
+	path = Technical-projects/blogBackEndNodeApi
+	url = https://github.com/Yogue1997/blogBackEndNodeApi
+[submodule "Technical-projects/furaha-bank"]
+	path = Technical-projects/furaha-bank
+	url = https://github.com/Yogue1997/furaha-bank

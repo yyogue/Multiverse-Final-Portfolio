@@ -1,82 +1,85 @@
 <a name="readme-top"></a>
 
-
-<h3 align="center">Multiverse Final Portfolio (Youssouf)</h3>
+<h3 align="center">Professional Portfolio - Youssouf Yogue</h3>
 <p align="center">
-  This repo is a collection of some of my learning experiences and contributions during my 2022-2023 apprenticeship at Amex sponsored by Multiverse.
+  This repository showcases my accomplishments and contributions during the 2022-2023 apprenticeship at American Express, sponsored by Multiverse.
 </p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#durable">Durable Skills</a></li>
-    <li><a href="#technical">Technical Projects</a></li>
-    <li><a href="#contact">Contact Me</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#durable">Durable Skills</a></li>
+    <li><a href="#technical">Technical Projects</a></li>
+    <li><a href="#contact">Contact Me</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
 </details>
-
 
 <!-- Overview -->
 ## Overview
 
-During my time as a Multiverse apprentice at American Express, I had the opportunity to make significant contributions by enhancing and expanding the functionality of existing code bases, all while upholding Amex’s core values of leadership, integrity, and hard work. My primary focus was on improving the customer service portals, where I dedicated myself to enhancing user interfaces to ensure greater accessibility and minimize errors for our dedicated customer service agents. This commitment to excellence was driven by our shared goal of consistently delivering unparalleled service to our valued customers.
-While I can’t directly showcase code from the modules I worked on at Amex, I am more than eager to share some of the personal projects that helped me strengthen my web development skills. These projects were instrumental in allowing me to apply the knowledge and techniques I acquired to my work at American Express, contributing to the overall success of the company.
-As a web developer, I constantly strive to push the boundaries of what’s possible and to create innovative solutions that improve the user experience and functionality of web applications. My passion for coding and my dedication to continuous improvement drive me to deliver exceptional results in every project I undertake.
-I firmly believe that the skills and experiences gained during my time at American Express, coupled with my personal projects, have shaped me into a well-rounded web developer with a deep understanding of creating user-friendly and efficient applications.
+During my Multiverse apprenticeship at American Express, I made substantial contributions, enhancing existing code bases with a focus on user interface improvements in customer service portals. Upholding Amex’s core values, I aimed to ensure accessibility and minimize errors for dedicated customer service agents, aligning with our shared goal of delivering exceptional service.
+
+While I can't directly showcase Amex code, I present personal projects that strengthened my skills, contributing to the company's success. As a web developer, I aim to create innovative solutions for improved user experience and functionality, reflecting my passion for coding and continuous improvement.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Durable Skills Section -->
 ### Durable Skills
 
-My durable skills are separated into: 
+My durable skills encompass:
 <ul>
-  <li>Problem Solving</li>
-  <li>Communications</li>
-  <li>Involvement in Teams and Communities</li>
-  <li>Initiative Taking</li>
-  <li>Learning from Others 24/7</li>
+  <li>Problem Solving</li>
+  <li>Communications</li>
+  <li>Involvement in Teams and Communities</li>
+  <li>Initiative Taking</li>
+  <li>Learning from Others 24/7</li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Technical Projects Section -->
-### Technical Projects
+### Technical Skills
 
-My technical project section is separated into: 
+I possess expertise in:
 <ul>
-  <li>Intro to Code Challenges</li>
-  <li>Database Related Projects</li>
-  <li>React Related Projects</li>
-  <li>Skills Learned on the Job</li>
+  <li>Frontend React.js development</li>
+  <li>React Native</li>
+  <li>Node.js (Mongoose, Express, MongoDB, Postman, JavaScript)</li>
 </ul>
 
-My favorite projects created:
+Notable projects include:
+
 <ul>
-  <li><a href="https://github.com/Yogue1997/youssouf-store.git">Youssouf store</a></li>
+  <li><a href="https://github.com/Yogue1997/blogBackEndNodeApi">Node.js API With MongoDB</a></li>
 </ul>
 
-Feel free to look through to see all of the different frameworks and languages I have been practicing in the last year plus!
+<ul>
+  <li><a href="https://github.com/Yogue1997/furaha-bank">React Native Project</a></li>
+</ul>
+
+<ul>
+  <li><a href="https://github.com/Yogue1997/youssouf-store.git">Youssouf Store</a></li>
+</ul>
+
+Feel free to explore for insights into various frameworks and languages I've practiced in the last year.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Youssouf Yogue / yousyogue@gmail.com  / 859-529-2930
+Youssouf Yogue / yousyogue@gmail.com / 859-529-2930
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-I am incredibly grateful for the enriching experience I had as a Multiverse apprentice, and I’d like to extend my heartfelt appreciation to the entire Multiverse team, with a special mention to our dedicated instructor, Jonathan. His guidance and support played a pivotal role in shaping me into the proficient developer I am today.
-Furthermore, I would like to express my gratitude to the CVP (Customer Value Proposition) team at American Express. Throughout my journey, from the initial onboarding to the successful completion of my last project with them, they provided me with invaluable insights into the intricacies of software development. Their mentorship and shared tips and tricks have made my development process more efficient and effective.
-A big shoutout goes to my fellow Multiverse cohort of 2023! Together, we formed a tight-knit community that offered unwavering support to one another. Whenever challenges arose, we stood by each other’s side, offering coaching and encouragement. Working collaboratively on various exciting projects was an incredible learning experience.
-I am deeply grateful to both American Express and Multiverse for providing me with this outstanding opportunity. Their belief in me allowed me to make a remarkable transition from being a welder to becoming a skilled software developer. This transformative journey has enriched my life and opened up new possibilities for my future.
-Thank you once again to everyone who has been a part of this incredible experience. Your support and encouragement have been instrumental in my growth, and I am eager to embrace new challenges and contribute to the tech community with newfound passion and dedication.
+Grateful for the enriching Multiverse apprenticeship experience, I extend appreciation to the entire Multiverse team, especially our instructor, Jonathan. Thanks to the CVP team at American Express for invaluable insights, mentorship, and collaboration. Special thanks to my fellow Multiverse cohort of 2023 for a supportive community.
+
+Thank you, American Express and Multiverse, for this transformative opportunity. Your belief in me allowed a significant transition from a welder to a skilled software developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
