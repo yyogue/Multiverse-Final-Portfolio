@@ -1,6 +1,6 @@
 [submodule "Technical-projects/youssouf-store"]
 	path = Technical-projects/youssouf-store
-	url = https://github.com/Yogue1997/youssouf-store.git
+	url = https://github.com/Yogue1997/youssouf-store
 [submodule "Technical-projects/mutiverse-backend-project"]
 	path = Technical-projects/mutiverse-backend-project
 	url = https://github.com/Yogue1997/mutiverse-backend-project.git
