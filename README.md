@@ -71,7 +71,7 @@ Feel free to explore for insights into various frameworks and languages I've pra
 <!-- CONTACT -->
 ## Contact
 
-Youssouf Yogue / yousyogue@gmail.com / 859-529-2930
+Youssouf Yogue / yousyogue@gmail.com / 954-716-5510
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
