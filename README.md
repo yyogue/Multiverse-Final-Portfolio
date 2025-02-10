@@ -53,7 +53,7 @@ I possess expertise in:
 Notable projects include:
 
 <ul>
-  <li><a href="https://github.com/Yogue1997/blogBackEndNodeApi">Node.js API With MongoDB</a></li>
+  <li><a href="https://github.com/yyogue/employee-management-system.git">Node.js API With MongoDB</a></li>
 </ul>
 
 <ul>
@@ -61,7 +61,7 @@ Notable projects include:
 </ul>
 
 <ul>
-  <li><a href="https://github.com/Yogue1997/youssouf-store.git">Youssouf Store</a></li>
+  <li><a href="https://github.com/Yogue1997/youssouf-store.git">Youssouf Store Firs ever big project</a></li>
 </ul>
 
 Feel free to explore for insights into various frameworks and languages I've practiced in the last year.
