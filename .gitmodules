@@ -19,3 +19,6 @@
 [submodule "Technical-projects/furaha-bank"]
 	path = Technical-projects/furaha-bank
 	url = https://github.com/Yogue1997/furaha-bank
+[submodule "Technical-projects/employee-management-system"]
+	path = Technical-projects/employee-management-system
+	url = https://github.com/yyogue/employee-management-system.git
