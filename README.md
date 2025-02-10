@@ -61,7 +61,7 @@ Notable projects include:
 </ul>
 
 <ul>
-  <li><a href="https://github.com/Yogue1997/youssouf-store.git">Youssouf Store Firs ever big project</a></li>
+  <li><a href="https://github.com/Yogue1997/youssouf-store.git">Youssouf Store (First  big project)</a></li>
 </ul>
 
 Feel free to explore for insights into various frameworks and languages I've practiced in the last year.
