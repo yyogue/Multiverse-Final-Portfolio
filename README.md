@@ -1,85 +1,100 @@
 <a name="readme-top"></a>
 
-<h3 align="center">Professional Portfolio - Youssouf Yogue</h3>
-<p align="center">
-  This repository showcases my accomplishments and contributions during the 2022-2023 apprenticeship at American Express, sponsored by Multiverse.
-</p>
+# 👨🏽‍💻 Professional Portfolio – Youssouf Yogue
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#durable">Durable Skills</a></li>
-    <li><a href="#technical">Technical Projects</a></li>
-    <li><a href="#contact">Contact Me</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+This repository showcases my professional growth, technical accomplishments, and commitment to excellence as a Full-Stack Software Engineer.
 
-<!-- Overview -->
-## Overview
+---
 
-During my Multiverse apprenticeship at American Express, I made substantial contributions, enhancing existing code bases with a focus on user interface improvements in customer service portals. Upholding Amex’s core values, I aimed to ensure accessibility and minimize errors for dedicated customer service agents, aligning with our shared goal of delivering exceptional service.
+## 📑 Table of Contents
 
-While I can't directly showcase Amex code, I present personal projects that strengthened my skills, contributing to the company's success. As a web developer, I aim to create innovative solutions for improved user experience and functionality, reflecting my passion for coding and continuous improvement.
+- [Overview](#overview)
+- [Durable Skills](#durable-skills)
+- [Technical Skills & Projects](#technical-skills--projects)
+- [Contact Me](#contact-me)
+- [Acknowledgments](#acknowledgments)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
-<!-- Durable Skills Section -->
-### Durable Skills
+## 🧠 Overview
 
-My durable skills encompass:
-<ul>
-  <li>Problem Solving</li>
-  <li>Communications</li>
-  <li>Involvement in Teams and Communities</li>
-  <li>Initiative Taking</li>
-  <li>Learning from Others 24/7</li>
-</ul>
+I’m **Youssouf Yogue**, a passionate Full-Stack Software Engineer with experience in **React.js**, **Node.js**, **Java**, and **React Native**. I made a career switch from welding to software development—driven by curiosity, resilience, and a desire to build solutions that improve lives.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+During 2022–2024, I contributed to internal customer service portals at **American Express**, with a focus on clean UI/UX, accessibility, and performance. While I can't share proprietary code, I’ve developed several public projects that reflect my skill set and engineering mindset.
 
-<!-- Technical Projects Section -->
-### Technical Skills
 
-I possess expertise in:
-<ul>
-  <li>Frontend React.js development</li>
-  <li>React Native</li>
-  <li>Node.js (Mongoose, Express, MongoDB, Postman, JavaScript)</li>
-</ul>
+Currently, I work as a **Sr Line Lead IT Diagnostic Technician at Jabil**, where I:
 
-Notable projects include:
+- Assist the Test Engineering department in an ongoing data evaluation program to improve 
+  diagnosis efficiency of assemblies.  
+- Diagnose and repair opens, shorts, and boundary scan failures down to the component level on 
+  electronic circuit board assemblies.  
+- Manage team members and ensure daily priorities and goals are met.  
+- Act as a communication bridge between operators and management.
 
-<ul>
-  <li><a href="https://github.com/yyogue/employee-management-system.git">Node.js API With MongoDB</a></li>
-</ul>
+I also proposed an internal **AI-powered support tool** to help technicians identify recurring 
+issue patterns and route problems to the right team—streamlining troubleshooting and boosting 
+productivity.
 
-<ul>
-  <li><a href="https://github.com/Yogue1997/furaha-bank">React Native Project</a></li>
-</ul>
-
-<ul>
-  <li><a href="https://github.com/Yogue1997/youssouf-store.git">Youssouf Store (First  big project)</a></li>
-</ul>
-
-Feel free to explore for insights into various frameworks and languages I've practiced in the last year.
+In parallel, I’m building **FinFlowz** — a mobile fintech platform inspired by Cash App and tailored 
+to emerging markets like Congo. It enables users to send, receive, and withdraw money via mobile 
+wallets such as Orange Money, Airtel Money, M-Pesa, and more.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
+---
 
-Youssouf Yogue / yousyogue@gmail.com / 954-716-5510
+## 💪 Durable Skills
+
+Throughout my journey, I’ve strengthened a core set of durable, transferable skills:
+
+- 🧩 Problem Solving with a user-first mindset  
+- 🗣️ Effective Communication  
+- 🤝 Team Collaboration & Leadership  
+- 🚀 Initiative & Ownership  
+- 📚 Lifelong Learning & Adaptability  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+---
 
-Grateful for the enriching Multiverse apprenticeship experience, I extend appreciation to the entire Multiverse team, especially our instructor, Jonathan. Thanks to the CVP team at American Express for invaluable insights, mentorship, and collaboration. Special thanks to my fellow Multiverse cohort of 2023 for a supportive community.
+## 🛠️ Technical Skills & Projects
 
-Thank you, American Express and Multiverse, for this transformative opportunity. Your belief in me allowed a significant transition from a welder to a skilled software developer.
+### 🚧 Tech Stack
+
+- **Frontend**: React.js, React Native  
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose  
+- **Tools**: Postman, Git, Docker, AWS basics  
+- **Languages**: JavaScript, Java, Python *(currently learning for AI/ML and robotics)*  
+
+### 🚀 Featured Projects
+
+- [**Employee Management API**](https://github.com/yyogue/employee-management-system.git):  
+  A RESTful Node.js + MongoDB API with authentication and full CRUD functionality.
+
+- [**Furaha Bank**](https://github.com/Yogue1997/furaha-bank):  
+  A mobile banking app prototype built in React Native, tailored to Congo’s mobile money ecosystem.
+
+- [**Youssouf Store**](https://github.com/Yogue1997/youssouf-store.git):  
+  My first full-stack e-commerce site — a milestone project in my dev journey.
+
+### 🔭 Currently Working On
+
+- **FinFlowz** – A mobile fintech platform where users can send, receive, and withdraw funds via mobile wallets like Orange Money, Airtel, and M-Pesa.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## 📬 Contact Me
+
+**Youssouf Yogue**  
+📧 yousyogue@gmail.com  
+📞 954-716-5510  
+🌐 [LinkedIn (optional link)](https://linkedin.com/in/youssouf-yogue)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
