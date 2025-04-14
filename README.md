@@ -96,5 +96,3 @@ Throughout my journey, I’ve strengthened a core set of durable, transferable s
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
